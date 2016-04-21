@@ -1,5 +1,5 @@
-## 2015 Space Apps NYC
-## Intro to NASA Open Data APIs
+## 2016 NASA Space Apps Challenge
+## Intro to data.NASA.gov APIs
 ![Socrata](img/snu-dev.png)
 ===
 
@@ -37,8 +37,8 @@
 <br />
 ### `==>` [data.nasa.gov](https://data.nasa.gov/) `<==`
 <br />
-### [spaceappschallenge.org](https://2015.spaceappschallenge.org/challenge/)
-### [dev.socrata.com/data](http://dev.socrata.com/data/)
+### [spaceappschallenge.org](https://2016.spaceappschallenge.org/challenges)
+### [Open Data Network](www.opendatanetwork.com)
 
 ---
 
