@@ -38,7 +38,7 @@
 ### `==>` [data.nasa.gov](https://data.nasa.gov/) `<==`
 <br />
 ### [spaceappschallenge.org](https://2016.spaceappschallenge.org/challenges)
-### [Open Data Network](www.opendatanetwork.com)
+### [Open Data Network](https://opendatanetwork.com)
 
 ---
 
