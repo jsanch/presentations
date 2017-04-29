@@ -10,7 +10,11 @@
 --- 
 
 
-<h3><img src="/presentations/img/twitter.png" alt="twitter" style="vertical-align: middle" /> jaime_sanchez_</h3>
+<h2> Jaime Sanchez </h2>
+<h3> Solutions Engineer </h3> 
+<h3><img src="/presentations/img/twitter.png" alt="twitter" style="vertical-align: middle" /> jaime\_sanchez\_ </h3>
+
+
 
 ---
 
@@ -46,7 +50,6 @@
 ## Finding Data
 
 ### [data.nasa.gov](https://data.nasa.gov/)
-### [communities.socrata.com/catalogs/space-apps-next-gen-2015/](https://communities.socrata.com/catalogs/space-apps-next-gen-2015/)
 
 ---
 
@@ -63,8 +66,6 @@
 ---
 
 ## Example: US and Russian EVA Activities
-
-[communities.socrata.com/.../.../nhhx-b7wh](https://communities.socrata.com/dataset/Extra-vehicular-Activity-EVA-US-And-Russia/nhhx-b7wh)
 
 ---
 
@@ -143,7 +144,6 @@
 
 ## Sample App
 
-[chrismetcalf.github.io/not-the-game-asteroids/](http://chrismetcalf.github.io/not-the-game-asteroids/)
 
 <iframe src="http://chrismetcalf.github.io/not-the-game-asteroids/" width="800" height="500"></iframe>
 
