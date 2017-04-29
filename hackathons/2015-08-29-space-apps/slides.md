@@ -9,9 +9,8 @@
 
 --- 
 
-![Hey Ladies!](/presentations/img/metcalf.jpg)
 
-<h3><img src="/presentations/img/twitter.png" alt="twitter" style="vertical-align: middle" /> chrismetcalf</h3>
+<h3><img src="/presentations/img/twitter.png" alt="twitter" style="vertical-align: middle" /> jaime_sanchez_</h3>
 
 ---
 
